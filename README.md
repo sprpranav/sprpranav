@@ -1,16 +1,22 @@
-## Hi there 👋
+### 👋 Hi, I’m Pranav
 
-<!--
-**sprpranav/sprpranav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about AI, Web Development & Problem Solving  
+🎓 Integrated M.Tech Software Engineering @ VIT Vellore  
+🌟 Interested in QA, Cloud Computing, Machine Learning, Software Development, and Agile Methodologies  
+📫 Reach me: [LinkedIn](www.linkedin.com/in/pranav-seenivasagan-698904223) | [Email](sprpranav2003@gmail.com)
 
-Here are some ideas to get you started:
+### 💫 About Me:
+A curious engineer and lifelong learner! I’m Pranav, driven by innovation in AI and Cloud Computing. I’ve built impactful projects like AI-Powered E-commerce Assistant, Smart Auction System, and more. 
+My mantra: *"Think deeply. Build passionately."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats:
+![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sprpranav&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sprpranav&layout=compact&theme=tokyonight)
+
+### 🏆 GitHub Trophies:
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sprpranav&theme=radical)
+
+---
+
+### 📈 Activity Graph:
+![Pranav's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sprpranav&theme=github-compact)
