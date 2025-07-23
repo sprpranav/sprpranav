@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Pranav
+### 👋 Hi, I’m Pranav Seenivasagan
 
 🚀 Passionate about AI, Web Development & Problem Solving  
 🎓 Integrated M.Tech Software Engineering @ VIT Vellore  
