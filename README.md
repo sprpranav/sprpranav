@@ -19,4 +19,4 @@ My mantra: *"Think deeply. Build passionately."*
 ---
 
 ### 📈 Activity Graph:
-![Pranav's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sprpranav&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sprpranav&theme=github-compact)
