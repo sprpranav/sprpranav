@@ -3,7 +3,7 @@
 🚀 Passionate about AI, Web Development & Problem Solving  
 🎓 M.Tech (Integrated) Software Engineering @ VIT Vellore  
 🌟 Interested in QA, Cloud Computing, Machine Learning, Software Development, and Agile Methodologies  
-📫 Reach me: [LinkedIn](www.linkedin.com/in/pranav-seenivasagan-698904223) | [Email](sprpranav2003@gmail.com)
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/pranav-seenivasagan-698904223/) | [Email](sprpranav2003@gmail.com)
 
 ### 💫 About Me:
 A curious engineer and lifelong learner! I’m Pranav, driven by innovation in AI and Cloud Computing. I’ve built impactful projects like AI-Powered E-commerce Assistant, Smart Auction System, and more. 
