@@ -14,7 +14,7 @@ My mantra: *"Think deeply. Build passionately."*
 Java • Python • C • C++ • SQL • JavaScript
 
 **Frameworks / Libraries**  
-React • Bootstrap • NumPy
+SpringBoot • Bootstrap • TestNG
 
 **Tools**  
 JMeter • Selenium IDE • Selenium WebDriver • Postman API • JUnit • StarUML • Jira
