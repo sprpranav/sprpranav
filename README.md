@@ -5,7 +5,7 @@
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/pranav-seenivasagan-698904223/) | [sprpranav2003@gmail.com](mailto:sprpranav2003@gmail.com)
 
 ### 💫 About Me:
-A curious engineer and lifelong learner! I’m Pranav, driven by innovation in AI and Cloud Computing. I’ve built impactful projects like AI-Powered E-commerce Assistant, Smart Auction System, and more. 
+A curious engineer and lifelong learner! I’m Pranav, driven by innovation in Automation and Cloud Computing. I’ve built impactful projects like AI-Powered E-commerce Assistant, Smart Auction System, and more. 
 My mantra: *"Think deeply. Build passionately."*
 
 ### 🧰 Tech Stack
