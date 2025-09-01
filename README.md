@@ -1,6 +1,5 @@
 ### 👋 Hi, I’m Pranav Seenivasagan
 
-🚀 Passionate about AI, Web Development & Problem Solving  
 🎓 M.Tech (Integrated) Software Engineering @ VIT Vellore  
 🌟 Interested in QA, Cloud Computing, Machine Learning, Software Development, and Agile Methodologies  
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/pranav-seenivasagan-698904223/) | [sprpranav2003@gmail.com](mailto:sprpranav2003@gmail.com)
